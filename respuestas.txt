@@ -1,2 +1,6 @@
 1-los 4 elementos son: clientes, proveedores,competidores y gobierno
 2-los componentes son: el objetivo, los elementos y las interrelaciones.
+3-es un conjunto de recursos humanos y otro tipo de recursos, cuyas actividades sistematicas se consectuan de tal manera que persiguen lograr un objetivo
+concreto y en los que se generan traslados de informacion, bienes o servicios mediante procedimientos establecidos.
+
+4)- recursos(insumos)------------> organismocomo proceso de conversion ------------->Beneficios(Productos)
