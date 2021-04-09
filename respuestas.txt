@@ -1,0 +1,1 @@
+1-los 4 elementos son: clientes, proveedores,competidores y gobierno
